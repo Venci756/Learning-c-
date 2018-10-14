@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrteMrte", "TrteMrte\TrteMrte.csproj", "{AF31ED3F-023B-409A-BD8A-0AC5F9321E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gol", "Gol\Gol.csproj", "{ECCCCAB5-8CD2-4565-B3E0-AFE2CB88E1E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF31ED3F-023B-409A-BD8A-0AC5F9321E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF31ED3F-023B-409A-BD8A-0AC5F9321E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF31ED3F-023B-409A-BD8A-0AC5F9321E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF31ED3F-023B-409A-BD8A-0AC5F9321E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCCCAB5-8CD2-4565-B3E0-AFE2CB88E1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCCCAB5-8CD2-4565-B3E0-AFE2CB88E1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCCCAB5-8CD2-4565-B3E0-AFE2CB88E1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCCCAB5-8CD2-4565-B3E0-AFE2CB88E1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BC81CF-6530-4ECE-8847-1D8846EF8F1C}
+	EndGlobalSection
+EndGlobal
