@@ -1,0 +1,10 @@
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\obj\Debug\netcoreapp2.1\CarpentingVezba.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\obj\Debug\netcoreapp2.1\CarpentingVezba.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\obj\Debug\netcoreapp2.1\CarpentingVezba.AssemblyInfo.cs
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\bin\Debug\netcoreapp2.1\CarpentingVezba.deps.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\bin\Debug\netcoreapp2.1\CarpentingVezba.runtimeconfig.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\bin\Debug\netcoreapp2.1\CarpentingVezba.runtimeconfig.dev.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\bin\Debug\netcoreapp2.1\CarpentingVezba.dll
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\bin\Debug\netcoreapp2.1\CarpentingVezba.pdb
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\obj\Debug\netcoreapp2.1\CarpentingVezba.dll
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\CarpentingVezba\obj\Debug\netcoreapp2.1\CarpentingVezba.pdb

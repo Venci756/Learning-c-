@@ -1,0 +1,11 @@
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\bin\Debug\netcoreapp2.1\Kurs1.deps.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\bin\Debug\netcoreapp2.1\Kurs1.runtimeconfig.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\bin\Debug\netcoreapp2.1\Kurs1.runtimeconfig.dev.json
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\bin\Debug\netcoreapp2.1\Kurs1.dll
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\bin\Debug\netcoreapp2.1\Kurs1.pdb
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.csprojAssemblyReference.cache
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.AssemblyInfoInputs.cache
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.AssemblyInfo.cs
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.dll
+C:\Users\Darko\Desktop\Venko Vezbi\Kurs1\Kurs1\obj\Debug\netcoreapp2.1\Kurs1.pdb
